@@ -27,3 +27,7 @@ Open the floater, pick **2-Point Distance** (vertex magnet snap), or **Bounding 
 - Text dir: Horizontal / Vertical. Mirror text if it must read flipped.
 - Line X/Y/Z moves the dimension line. Arrow size / width as needed.
 - Delete the group to remove spline + text together.
+
+## License
+
+MIT, see [LICENSE](LICENSE). The name and logo are not covered by the license; see [NOTICE.md](NOTICE.md).

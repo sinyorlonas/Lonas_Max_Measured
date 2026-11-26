@@ -26,3 +26,5 @@ defaults for the next new measure.
 Text dir: Horizontal / Vertical. Mirror text if it must read flipped.
 Line X/Y/Z moves the dimension line. Arrow size / width as needed.
 Delete the group to remove spline + text together.
+
+License: MIT (see LICENSE). The Lonas name and logo are not covered by the license (see NOTICE.md).
